@@ -1,8 +1,0 @@
-name: multiplex
-script: [socket.io.js, multiplex.js]
-register: false
-config:
-  multiplex:
-    secret: null
-    id: "74533ca3053d8494"
-    url: "https://reveal-multiplex.glitch.me/"
