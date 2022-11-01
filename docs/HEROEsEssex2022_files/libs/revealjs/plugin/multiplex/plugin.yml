@@ -4,5 +4,5 @@ register: false
 config:
   multiplex:
     secret: null
-    id: "cb866fd2c9619f7b"
+    id: "74533ca3053d8494"
     url: "https://reveal-multiplex.glitch.me/"
